@@ -40,12 +40,4 @@ This is an interactive python notebook, hence the output will be available right
 
 In this script, we are reading the experiment 1 and experiment 2 files respectively to compare their performacnes
 
-
-Please look at the report pdf file for more details.
-Individual Contribution is mentioned at the end of the report.
-Thank you.
-
-
-Authors - 
-Ravi Rajpurohit (1002079916)
-Vedanti Ambulkar (1001829121)
+Thank you!
